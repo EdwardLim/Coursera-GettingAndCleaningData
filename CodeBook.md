@@ -5,6 +5,7 @@ Original dataset can be found here: https://d396qusza40orc.cloudfront.net/getdat
 and described here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 For the run_analysis.R script, we did the following:
+
 1. Merged the training and test datasets.
 2. Each dataset is a combination of the Subject, X and Y features.
 3. The columns are:
